@@ -3,7 +3,7 @@ import { FaSearch, FaShoppingBag, FaSignOutAlt, FaUser } from "react-icons/fa";
 import { useState } from "react";
 
 const user = {
-  _id: "",
+  _id: "dsdsfds",
   role: "",
 };
 
