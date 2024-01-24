@@ -3,10 +3,8 @@ import { FaSearch, FaShoppingBag, FaSignOutAlt, FaUser } from "react-icons/fa";
 import { useState } from "react";
 
 const user = {
-  _id: "123",
-  name: "John Doe",
-  email: "niffv@gmail.com",
-  role: "admin",
+  _id: "",
+  role: "",
 };
 
 const header = () => {
